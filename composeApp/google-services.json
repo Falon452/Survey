@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "752221333534",
+    "project_id": "survey-bb1eb",
+    "storage_bucket": "survey-bb1eb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752221333534:android:0f3d4b9fc95823067ea60f",
+        "android_client_info": {
+          "package_name": "com.falon.survey"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLLOEltHnd6cCa5BVjK_kcwD6Jeflb6sc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
